@@ -8,7 +8,7 @@ Version: 1.1
 How To Install & Run?
 
 1. Run CMD
-   - ```git clone https://github.com/Pytholearn/HAZARD-NUCLEARv1.1```
+   - ```git clone https://github.com/Mahdiar87/decoologi.git```
      - Wiat For Install All Library
         - ```cd mahdiar-hack ```
            -  ```setup.bat ```
