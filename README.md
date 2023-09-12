@@ -10,7 +10,7 @@ How To Install & Run?
 1. Run CMD
    - ```git clone https://github.com/Mahdiar87/decoologi.git```
      - Wiat For Install All Library
-        - ```cd mahdiar-hack ```
+        - ```cd decoologi ```
            -  ```setup.bat ```
               - Wait For Complete Install
 
